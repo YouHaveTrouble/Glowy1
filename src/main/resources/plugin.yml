@@ -1,5 +1,8 @@
 name: Glowy
-version: ${project.version}
+version: 1.0
 main: pl.kokomistrz.glowy.Glowy
 api-version: 1.16
 authors: [koko_mistrz]
+
+commands:
+  test:
